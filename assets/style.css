@@ -1,0 +1,23 @@
+body {
+  // background-color: lightblue;
+  background-image: url("images/green_dust_scratch.png");
+  font-family: 'Press Start 2P', cursive;
+  color: #003333;
+}
+
+h1 {
+  font-size: 72px;
+} 
+
+.title {
+  position: absolute;
+  top: 25%;
+  left: 22%;
+}
+
+.content {
+  position: absolute;
+  top: 50%;
+  left: 10%;
+  text-align: center;
+}
